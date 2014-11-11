@@ -1,0 +1,7 @@
+FC is File Compare in Windows.
+You can call it from the command prompt
+The syntax is:
+FC file1name file2name
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+It makes you a more efficient programmer because you can always return back to the previous working code if you come to a dead end!! It helps when you have to add many features to the program,it helps in modularising!!
