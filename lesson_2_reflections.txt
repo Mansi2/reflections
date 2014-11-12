@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+When we initialise a repository a meta-data is created. The repository is the version 1.0 of the code base.
+We need repository inorder to work with Git,as git operates on repositories!
