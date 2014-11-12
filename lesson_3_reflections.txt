@@ -1,0 +1,2 @@
+When would you want to create a remote repository rather than keeping all your work local?
+When I am working in a group project, I would prefer hosting it on github as all my partners can view my work and can update theirs.
