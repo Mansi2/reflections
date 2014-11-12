@@ -5,3 +5,8 @@ When I am working in a group project, I would prefer hosting it on github as all
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Because we dont want the feature or branch which is not fully developed to interfere with the local repository. It should be merged only after it gains stability ,hence manual pull is required.
 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+branches scope:local rep(Add feature to my own work)
+clones scope:Git server,local repository(Copy the rep as it is from server or other loc rep)
+fork scope:Git server(Copy other ppl's rep in my git server)
