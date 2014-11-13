@@ -13,3 +13,6 @@ fork scope:Git server(Copy other ppl's rep in my git server)
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It helps you to work on the latest fork offline which is fetched on your PC.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Emails. But Git is harder but efficient too.
