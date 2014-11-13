@@ -16,3 +16,7 @@ It helps you to work on the latest fork offline which is fetched on your PC.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Emails. But Git is harder but efficient too.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Separate branch:When you have some new fwature to add
+Master:When we want to add a change global to everything.
