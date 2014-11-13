@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 branches scope:local rep(Add feature to my own work)
 clones scope:Git server,local repository(Copy the rep as it is from server or other loc rep)
 fork scope:Git server(Copy other ppl's rep in my git server)
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It helps you to work on the latest fork offline which is fetched on your PC.
